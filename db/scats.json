@@ -4,7 +4,7 @@
       "location": "NSS",
       "weight": "12g",
       "color": "brown",
-      "sampleName": "Toxic Sample 1",
+      "sampleName": "Toxic Sample",
       "animal": "cat",
       "uid": "9kLlTlK3OlUywT5yWl0lghYQVqv1"
     },
@@ -12,7 +12,7 @@
       "location": "Music City Center",
       "weight": "52g",
       "color": "dark brown",
-      "sampleName": "Huge Sample 1",
+      "sampleName": "Huge Sample",
       "animal": "tourist",
       "uid": "9kLlTlK3OlUywT5yWl0lghYQVqv1"
     },
@@ -20,7 +20,7 @@
       "location": "The Gultch",
       "weight": "32g",
       "color": "black",
-      "sampleName": "Gross Sample 1",
+      "sampleName": "Gross Sample",
       "animal": "bachelorette",
       "uid": "12345"
     },
@@ -28,7 +28,7 @@
       "location": "my backyard",
       "weight": "32",
       "color": "brown",
-      "sampleName": "Smelly Sample 1",
+      "sampleName": "Smelly Sample",
       "animal": "dog",
       "uid": "9kLlTlK3OlUywT5yWl0lghYQVqv1"
     },
@@ -36,7 +36,7 @@
       "location": "",
       "weight": "8g",
       "color": "white",
-      "sampleName": "Tiny Sample 1",
+      "sampleName": "Tiny Sample",
       "animal": "bird",
       "uid": "6789"
     }
