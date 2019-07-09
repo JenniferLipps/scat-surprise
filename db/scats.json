@@ -1,0 +1,44 @@
+{
+  "scats": {
+    "scat1": {
+      "location": "NSS",
+      "weight": "12g",
+      "color": "brown",
+      "sampleName": "Toxic Sample",
+      "animal": "cat",
+      "uid": "9kLlTlK3OlUywT5yWl0lghYQVqv1"
+    },
+    "scat2": {
+      "location": "Music City Center",
+      "weight": "52g",
+      "color": "dark brown",
+      "sampleName": "Huge Sample",
+      "animal": "tourist",
+      "uid": "9kLlTlK3OlUywT5yWl0lghYQVqv1"
+    },
+    "scat3": {
+      "location": "The Gultch",
+      "weight": "32g",
+      "color": "black",
+      "sampleName": "Gross Sample",
+      "animal": "bachelorette",
+      "uid": "12345"
+    },
+    "scat4": {
+      "location": "my backyard",
+      "weight": "32",
+      "color": "brown",
+      "sampleName": "Smelly Sample",
+      "animal": "dog",
+      "uid": "9kLlTlK3OlUywT5yWl0lghYQVqv1"
+    },
+    "scat5": {
+      "location": "",
+      "weight": "8g",
+      "color": "white",
+      "sampleName": "Tiny Sample",
+      "animal": "bird",
+      "uid": "6789"
+    }
+  }
+}
