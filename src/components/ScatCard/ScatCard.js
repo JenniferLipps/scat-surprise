@@ -18,6 +18,7 @@ class ScatCard extends React.Component {
 
   render() {
     const { scat } = this.props;
+    const editLink = `/edit/${scat.id}`;
     const singleLink = `/scat/${scat.id}`;
     return (
       <div className="ScatCard col-3">
@@ -25,7 +26,9 @@ class ScatCard extends React.Component {
           <div className="card-body">
             <h5 className="card-title">{scat.sampleName}</h5>
             <Link className="btn btn-success" to={singleLink}>View</Link>
+            <Link className="btn btn-info" to={editLink}>Edit</Link>
             <p className="card-text">{scat.location}</p>
+            <button className="btn btn-danger" onClick={this.deleteMe}>Delete</button>
           </div>
         </div>
       </div>
